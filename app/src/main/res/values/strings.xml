@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter">Print Your Name</string>
+    <string name="start_serv">Start Service</string>
+    <string name="text">your name</string>
+    <string name="time">number minutes</string>
+    <string name="open">Play</string>
+    <string name="stop">Pause</string>
+
+</resources>
